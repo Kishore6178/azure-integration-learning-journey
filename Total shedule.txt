@@ -1,0 +1,31 @@
+60-days-azure-logicapps-challenge
+|
+├── SQL
+│   ├── Day01
+│   ├── Day02
+│   └── Day03
+|
+├── APIs
+│   ├── Day08
+│   ├── Day09
+│   └── Day10
+|
+├── Azure-Fundamentals
+│   ├── Day11
+│   ├── Day12
+│   └── Day17
+|
+├── Logic-Apps
+│   ├── Day18
+│   ├── Day19
+│   └── Day28
+|
+├── Azure-Functions
+|
+├── Service-Bus
+|
+├── API-Management
+|
+├── Projects
+|
+└── README.md
